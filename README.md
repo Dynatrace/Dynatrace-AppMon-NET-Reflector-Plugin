@@ -56,7 +56,7 @@ Support    </p>
             </td>
                 <td rowspan="1" colspan="1">
         <p>
-<a href="https://community/display/DL/Support+Levels#SupportLevels-Supported">Supported</a>    </p>
+<a href="https://community.compuwareapm.com/community/display/DL/Support+Levels#SupportLevels-Supported">Supported</a>    </p>
             </td>
         </tr>
     <tr>
@@ -66,7 +66,14 @@ Download    </p>
             </td>
                 <td rowspan="1" colspan="1">
         <p>
-<a href="attachments_174751940_1_ReflectorPlugin7.dt60.zip">Download dynaTrace 6.0 Plugin for .NET Reflector 7</a><br/><a href="attachments_174751939_1_ReflectorPlugin5.dt60.zip">Download dynaTrace 6.0 Plugin for .NET Reflector 5</a><br/><a href="attachments_150700317_1_ReflectorPlugin7.dt56.zip">Download dynaTrace 5.6 Plugin for .NET Reflector 7</a><br/><a href="attachments_150700316_1_ReflectorPlugin5.dt56.zip">Download dynaTrace 5.6 Plugin for .NET Reflector 5</a><br/><a href="attachments_106233863_1_Reflector6.zip">Reflector 6 (ZIP)</a><br/><a href="http://www.red-gate.com/products/reflector/">Download .NET Reflector from RedGate</a><br/><a href="attachments_11305411_1_dynaTrace_NETReflector_Plugin_v3.0.1.zip">Download dynaTrace Plugin for .NET Reflector 5</a><br/><a href="attachments_47611932_2_dynaTrace_NETReflector7_Plugin.zip">Download dynaTrace Plugin for .NET Reflector 7</a>    </p>
+<a href="ReflectorPlugin7.dt60.zip">Download dynaTrace 6.0 Plugin for .NET Reflector 7</a><br/>
+<a href="ReflectorPlugin5.dt60.zip">Download dynaTrace 6.0 Plugin for .NET Reflector 5</a><br/>
+<a href="ReflectorPlugin7.dt56.zip">Download dynaTrace 5.6 Plugin for .NET Reflector 7</a><br/>
+<a href="ReflectorPlugin5.dt56.zip">Download dynaTrace 5.6 Plugin for .NET Reflector 5</a><br/>
+<a href="Reflector6.zip">Reflector 6 (ZIP)</a><br/>
+<a href="http://www.red-gate.com/products/reflector/">Download .NET Reflector from RedGate</a><br/>
+<a href="dynaTrace_NETReflector_Plugin_v3.0.1.zip">Download dynaTrace Plugin for .NET Reflector 5</a><br/>
+<a href="dynaTrace_NETReflector7_Plugin.zip">Download dynaTrace Plugin for .NET Reflector 7</a>    </p>
             </td>
         </tr>
 </tbody>        </table>
