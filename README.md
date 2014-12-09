@@ -6,19 +6,19 @@
 you to lookup code from the PurePath or Methods view. The dynaTrace Client launches the .NET Reflector and opens the disassembled assembly from the selected
 method in the PurePath or Methods view.
 
-Name | .NET Reflector Plugin
-:---- | :----
-dynaTrace Version | 5.x, 6.0
-.NET Reflector Version | 5+, 7
-Support | [Supported](https://community.compuwareapm.com/community/display/DL/Support+Levels#SupportLevels-supported)
-Download | [Download dynaTrace 6.0 Plugin for .NET Reflector 7](ReflectorPlugin7.dt60.zip)  
- | [Download dynaTrace 6.0 Plugin for .NET Reflector 5](ReflectorPlugin5.dt60.zip)  
-| [Download dynaTrace 5.6 Plugin for .NET Reflector 7](ReflectorPlugin7.dt56.zip)  
-| [Download dynaTrace 5.6 Plugin for .NET Reflector 5](ReflectorPlugin5.dt56.zip)  
-| [Reflector 6 (ZIP)](Reflector6.zip)  
-| [Download .NET Reflector from RedGate](http://www.red-gate.com/products/reflector/)  
-| [Download dynaTrace Plugin for .NET Reflector 5](dynaTrace_NETReflector_Plugin_v3.0.1.zip)  
-| [Download dynaTrace Plugin for .NET Reflector 7](dynaTrace_NETReflector7_Plugin.zip)
+|Name | .NET Reflector Plugin
+|:---- | :----
+|dynaTrace Version | 5.x, 6.0
+|.NET Reflector Version | 5+, 7
+|Support | [Supported](https://community.compuwareapm.com/community/display/DL/Support+Levels#SupportLevels-supported)
+|Download | [Download dynaTrace 6.0 Plugin for .NET Reflector 7](ReflectorPlugin7.dt60.zip)  
+| | [Download dynaTrace 6.0 Plugin for .NET Reflector 5](ReflectorPlugin5.dt60.zip)  
+| | [Download dynaTrace 5.6 Plugin for .NET Reflector 7](ReflectorPlugin7.dt56.zip)  
+| | [Download dynaTrace 5.6 Plugin for .NET Reflector 5](ReflectorPlugin5.dt56.zip)  
+| | [Reflector 6 (ZIP)](Reflector6.zip)  
+| | [Download .NET Reflector from RedGate](http://www.red-gate.com/products/reflector/)  
+| | [Download dynaTrace Plugin for .NET Reflector 5](dynaTrace_NETReflector_Plugin_v3.0.1.zip)  
+| | [Download dynaTrace Plugin for .NET Reflector 7](dynaTrace_NETReflector7_Plugin.zip)
 
 ## Plugin Information
 
