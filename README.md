@@ -8,8 +8,8 @@ method in the PurePath or Methods view.
 
 |Name | .NET Reflector Plugin
 |:---- | :----
-|dynaTrace Version | 5.x, 6.0
-|.NET Reflector Version | 5+, 7
+| Supported dynaTrace Version | >= 5.5
+| Supported .NET Reflector Version | 5+, 7
 |Support | [Supported](https://community.compuwareapm.com/community/display/DL/Support+Levels#SupportLevels-supported)
 |Download | [Download dynaTrace 6.0 Plugin for .NET Reflector 7](ReflectorPlugin7.dt60.zip)  
 | | [Download dynaTrace 6.0 Plugin for .NET Reflector 5](ReflectorPlugin5.dt60.zip)  
